@@ -5,7 +5,7 @@
   "license": "CC-BY-NC-4.0",
   "author": "TechnoStoneYt",
   "scripts": {
-    "start": "nodemon ./server.js"
+    "start": "node ./server.js"
   },
   "dependencies": {
     "axios": "^0.19.2",
