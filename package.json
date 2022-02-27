@@ -1,0 +1,20 @@
+{
+  "name": "instapro",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "CC-BY-NC-4.0",
+  "author": "TechnoStoneYt",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "instatouch": "^2.3.2",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
